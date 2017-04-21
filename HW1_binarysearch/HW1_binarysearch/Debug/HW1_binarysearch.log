@@ -1,0 +1,4 @@
+﻿  BinarySearch.cpp
+c:\users\ying yi\documents\visual studio 2015\projects\hw1_binarysearch\hw1_binarysearch\binarysearch.cpp(39): warning C4715: 'binarysearch': not all control paths return a value
+  HW1_binarysearch.vcxproj -> C:\Users\Ying Yi\Documents\Visual Studio 2015\Projects\HW1_binarysearch\Debug\HW1_binarysearch.exe
+  HW1_binarysearch.vcxproj -> C:\Users\Ying Yi\Documents\Visual Studio 2015\Projects\HW1_binarysearch\Debug\HW1_binarysearch.pdb (Full PDB)
